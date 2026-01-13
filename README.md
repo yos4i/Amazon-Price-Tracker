@@ -21,4 +21,6 @@ Based on the automated tracking of DDR4 vs. DDR5 modules:
 
 Market Volatility: Identified a massive 244% price surge in DDR5 modules (Corsair Vengeance) between Q4 2025 and Q1 2026.
 
-Divergence: Observed that while DDR4 prices (Timetec) increased steadily, DDR5 prices experienced exponential spikes, suggesting supply chain constraints in newer technology.
+![RAM Price Chart](ram-price-chart.png)
+![RAM Data](ram-data.png)
+![n8n-workflow](n8n-workflow.png)
